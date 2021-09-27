@@ -351,6 +351,11 @@ anymatch@~3.1.1:
     normalize-path "^3.0.0"
     picomatch "^2.0.4"
 
+ar.js@^2.2.2:
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/ar.js/-/ar.js-2.2.2.tgz#4d9698ec8e479c10ae7a4b3268076523a141626e"
+  integrity sha512-ThNE9oOGcosmMRKVkkKgHgHhDpLKXikLkFGCviAka5L3GAP3mpU1S5xJ9UWviJDncfzDfyezDCGe+bm321nyqQ==
+
 argparse@^1.0.7:
   version "1.0.10"
   resolved "https://registry.yarnpkg.com/argparse/-/argparse-1.0.10.tgz#bcd6791ea5ae09725e17e5ad988134cd40b3d911"

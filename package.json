@@ -1,14 +1,15 @@
 {
-  "name": "sber-vr",
+  "name": "ar",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "node src/server.js",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
+    "ar.js": "^2.2.2",
     "next": "11.1.2",
     "react": "17.0.2",
     "react-dom": "17.0.2"
